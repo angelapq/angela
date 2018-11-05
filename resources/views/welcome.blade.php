@@ -9,7 +9,7 @@
 <html>
 
 <head>
-	<title>Angela, Carol, Juanita</title>
+	<title>proyecto angela, carol y juanita </title>
 
 	<!--/tags -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,7 +59,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 						</ul>
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="index.html">Home</a></li>
+							<li class="active"><a href="index.html">inicio</a></li>
 							<li><a href="about.html">About</a></li>
 							<li><a href="portfolio.html">Portfolio</a></li>
 							<li><a href="contact.html">Contact</a></li>
@@ -205,12 +205,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/ab-->
 	<div class="banner_bottom">
 		<div class="container">
-			<h3 class="tittle-w3ls">Sobre nosotros</h3>
+			<h3 class="tittle-w3ls">About Us</h3>
 			<div class="inner_sec_info_wthree_agile">
 				<div class="help_full">
 
 					<div class="col-md-6 banner_bottom_grid help">
-						<img src="images/ab.png" alt=" " class="img-responsive">
+						<img src="images/ab.jpg" alt=" " class="img-responsive">
 					</div>
 					<div class="col-md-6 banner_bottom_left">
 						<h4>Working to build a better web design</h4>
