@@ -9,7 +9,7 @@
 <html>
 
 <head>
-	<title>Conceit a Corporate Category Bootstrap Responsive Web Template | Home :: w3layouts</title>
+	<title>Angela, Carol, Juanita</title>
 
 	<!--/tags -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -205,7 +205,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/ab-->
 	<div class="banner_bottom">
 		<div class="container">
-			<h3 class="tittle-w3ls">About Us</h3>
+			<h3 class="tittle-w3ls">Sobre nosotros</h3>
 			<div class="inner_sec_info_wthree_agile">
 				<div class="help_full">
 
