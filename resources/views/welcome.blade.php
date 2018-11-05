@@ -9,7 +9,7 @@
 <html>
 
 <head>
-	<title>Angela, Carol, Juanita</title>
+	<title>Proyecto Angela, Carol & Juanita</title>
 
 	<!--/tags -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,12 +59,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 						</ul>
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="index.html">Home</a></li>
-							<li><a href="about.html">About</a></li>
+							<li class="active"><a href="index.html">Inicio</a></li>
+							<li><a href="about.html">Acerca de</a></li>
 							<li><a href="portfolio.html">Portfolio</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="contact.html">Contacto</a></li>
 							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Desplegable <span class="caret"></span></a>
 								<ul class="dropdown-menu">
 									<li><a href="portfolio.html">Projects</a></li>
 									<li><a href="404.html">Services</a></li>
@@ -205,7 +205,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/ab-->
 	<div class="banner_bottom">
 		<div class="container">
-			<h3 class="tittle-w3ls">Sobre nosotros</h3>
+			<h3 class="tittle-w3ls">About Us</h3>
 			<div class="inner_sec_info_wthree_agile">
 				<div class="help_full">
 
