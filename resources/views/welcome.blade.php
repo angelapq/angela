@@ -9,9 +9,9 @@
 <html>
 
 <head>
-<<<<<<< HEAD
-	<title>proyecto angela, carol y juanita </title>
-=======
+
+
+
 	<title>Proyecto Angela, Carol & Juanita</title>
 
 
@@ -63,13 +63,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 						</ul>
 						<ul class="nav navbar-nav">
-<<<<<<< HEAD
+
 							<li class="active"><a href="index.html">inicio</a></li>
 							<li><a href="about.html">About</a></li>
-=======
+
 							<li class="active"><a href="index.html">Inicio</a></li>
 							<li><a href="about.html">Acerca de</a></li>
->>>>>>> dce8da00138a02db367b80fa7cba170e40b3eaa6
+
 							<li><a href="portfolio.html">Portfolio</a></li>
 							<li><a href="contact.html">Contacto</a></li>
 							<li class="dropdown">
