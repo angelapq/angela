@@ -210,7 +210,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="help_full">
 
 					<div class="col-md-6 banner_bottom_grid help">
-						<img src="images/ab.jpg" alt=" " class="img-responsive">
+						<img src="img/1.jpg" alt=" " class="img-responsive">
 					</div>
 					<div class="col-md-6 banner_bottom_left">
 						<h4>Working to build a better web design</h4>
@@ -324,7 +324,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
 
-			<img src="images/banner_mid.jpg" class="img-responsive" alt="">
+			<img src="images/1.jpg" class="img-responsive" alt="">
 		</div>
 	</div>
 	<!--//banner_bottom-->
@@ -357,7 +357,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li class="portfolio-item2" data-id="id-0" data-type="cat-item-4">
 						<div>
 							<span class="image-block img-hover">
-							<a class="image-zoom" href="images/g1.jpg" rel="prettyPhoto[gallery]">
+							<a class="image-zoom" href="images/g1.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
 							
 									<img src="images/g1.jpg" class="img-responsive" alt="Conceit">
 									<div class="port-info">
@@ -373,7 +373,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li class="portfolio-item2" data-id="id-1" data-type="cat-item-2">
 						<div>
 							<span class="image-block">
-							<a class="image-zoom" href="images/g2.jpg" rel="prettyPhoto[gallery]">
+							<a class="image-zoom" href="images/g2.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
 								
 									<img src="images/g2.jpg" class="img-responsive" alt="Conceit">
 								<div class="port-info">
@@ -389,7 +389,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li class="portfolio-item2" data-id="id-2" data-type="cat-item-1">
 						<div>
 							<span class="image-block">
-							<a class="image-zoom" href="images/g3.jpg" rel="prettyPhoto[gallery]">
+							<a class="image-zoom" href="images/g3.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
 							
 									<img src="images/g3.jpg" class="img-responsive" alt="Conceit">
 								<div class="port-info">
@@ -405,7 +405,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li class="portfolio-item2" data-id="id-3" data-type="cat-item-4">
 						<div>
 							<span class="image-block">
-							<a class="image-zoom" href="images/g4.jpg" rel="prettyPhoto[gallery]">
+							<a class="image-zoom" href="images/g4.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
 								
 									<img src="images/g4.jpg" class="img-responsive" alt="Conceit">
 									<div class="port-info">
@@ -421,7 +421,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li class="portfolio-item2" data-id="id-4" data-type="cat-item-3">
 						<div>
 							<span class="image-block">
-							<a class="image-zoom" href="images/g5.jpg" rel="prettyPhoto[gallery]">
+							<a class="image-zoom" href="images/g5.jpg" width="100" height="100"  rel="prettyPhoto[gallery]">
 								
 									<img src="images/g5.jpg" class="img-responsive" alt="Conceit">
 									<div class="port-info">
@@ -437,7 +437,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li class="portfolio-item2" data-id="id-5" data-type="cat-item-2">
 						<div>
 							<span class="image-block">
-							<a class="image-zoom" href="images/g6.jpg" rel="prettyPhoto[gallery]">
+							<a class="image-zoom" href="images/g6.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
 								
 									<img src="images/g6.jpg" class="img-responsive" alt="Conceit">
 									<div class="port-info">
@@ -453,7 +453,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li class="portfolio-item2" data-id="id-6" data-type="cat-item-1">
 						<div>
 							<span class="image-block">
-							<a class="image-zoom" href="images/g7.jpg" rel="prettyPhoto[gallery]">
+							<a class="image-zoom" href="images/g7.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
 							
 									<img src="images/g7.jpg" class="img-responsive" alt="Conceit">
 								      <div class="port-info">
@@ -469,7 +469,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li class="portfolio-item2" data-id="id-7" data-type="cat-item-1">
 						<div>
 							<span class="image-block">
-							<a class="image-zoom" href="images/g8.jpg" rel="prettyPhoto[gallery]">
+							<a class="image-zoom" href="images/g8.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
 								
 									<img src="images/g8.jpg" class="img-responsive" alt="Conceit">
 										<div class="port-info">
@@ -692,8 +692,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="footer">
 		<div class="footer_inner_info_w3ls_agileits">
 			<div class="col-md-3 footer-left">
-				<h2><a href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> Conceit </a></h2>
-				<p>Lorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.</p>
+				<h2><a href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> concetra </a></h2>
+				<p>La veterinaria ofrece los mejores servicios para su mascota.</p>
 				<ul class="social-nav model-3d-0 footer-social social two">
 					<li>
 						<a href="#" class="facebook">
@@ -736,27 +736,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="col-md-3 sign-gd flickr-post">
 						<h4>Our <span>Works</span></h4>
 						<ul>
-							<li><a href="single.html"><img src="images/g1.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g2.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g3.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g4.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g5.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g6.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g7.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g8.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g4.jpg" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/g1.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/g2.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/g3.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/g4.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/g5.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/g6.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/g7.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/g8.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/g4.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
 						</ul>
 					</div>
 					<div class="col-md-5 sign-gd-two">
-						<h4>Contact <span>Information</span></h4>
+						<h4>Contacto<span>Información</span></h4>
 						<div class="address">
 							<div class="address-grid">
 								<div class="address-left">
 									<i class="fa fa-phone" aria-hidden="true"></i>
 								</div>
 								<div class="address-right">
-									<h6>Phone Number</h6>
-									<p>+1 234 567 8901</p>
+									<h6>Cel</h6>
+									<p>963334899</p>
 								</div>
 								<div class="clearfix"> </div>
 							</div>
@@ -764,9 +764,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="address-left">
 									<i class="fa fa-envelope" aria-hidden="true"></i>
 								</div>
-								<div class="address-right">
-									<h6>Email Address</h6>
-									<p>Email :<a href="mailto:example@email.com"> mail@example.com</a></p>
+								<div class="address-right">Conce
+									<h6>Correo</h6>
+									<p>Email :<a href="mailto:example@email.com"> jackelinepompaquispe@gmail.com</a></p>
 								</div>
 								<div class="clearfix"> </div>
 							</div>
@@ -775,8 +775,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<i class="fa fa-map-marker" aria-hidden="true"></i>
 								</div>
 								<div class="address-right">
-									<h6>Location</h6>
-									<p>Broome St, NY 10002,California, USA.
+									<h6>Localización</h6>
+									<p>Av.san carlos N°413
 
 									</p>
 								</div>
