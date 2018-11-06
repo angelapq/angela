@@ -55,7 +55,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div id="navbar" class="navbar-collapse collapse">
 					<div class="nav_right_top">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a class="request" href="contact.html">Send Request</a></li>
+							<li><a class="request" href="contact.html">Enviar</a></li>
 
 						</ul>
 						<ul class="nav navbar-nav">
@@ -205,21 +205,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/ab-->
 	<div class="banner_bottom">
 		<div class="container">
-			<h3 class="tittle-w3ls">About Us</h3>
+			<h3 class="tittle-w3ls">PATITAS FELICESS</h3>
 			<div class="inner_sec_info_wthree_agile">
 				<div class="help_full">
 
 					<div class="col-md-6 banner_bottom_grid help">
-						<img src="images/ab.png" alt=" " class="img-responsive">
+						<img src="images/carol.jpg" alt=" " class="img-responsive">
 					</div>
 					<div class="col-md-6 banner_bottom_left">
-						<h4>Working to build a better web design</h4>
-						<p>Pellentesque convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
-							pulvinar neque pharetra ac.</p>
-						<p>Lorem Ipsum convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
-							pulvinar neque pharetra ac.</p>
+						<h4>La mejor veterinaria de huancayo</h4>
+						<p>una de las mejores veterinarias de huancayo donde el trato  atu mascota ser ala mejor .</p>
+						<p>tenemos los mejores medicos especialista  d ela ciudad </p>
 						<div class="ab_button">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More </a>
+							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">ingresar </a>
 						</div>
 					</div>
 					<div class="clearfix"></div>
@@ -235,8 +233,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 							</div>
 							<div class="col-xs-9 banner_bottom_grid_right">
-								<h4>Digital Solutions</h4>
-								<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+								<h4> En linea </h4>
+								<p> podra separar su cita ingresando a nuetra pagina</p>
 
 							</div>
 							<div class="clearfix"> </div>
@@ -252,8 +250,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 							</div>
 							<div class="col-xs-9 banner_bottom_grid_right">
-								<h4>Live Website Builder</h4>
-								<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+								<h4>ubicacion</h4>
+								<p>podras ubicarnos en el centro d ela ciudad calle real #123.</p>
 
 							</div>
 							<div class="clearfix"> </div>
@@ -269,8 +267,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 							</div>
 							<div class="col-xs-9 banner_bottom_grid_right">
-								<h4>Creative Strategy</h4>
-								<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+								<h4> Prioridad</h4>
+								<p>nuestra prioridad siempre sera el vienestar de tu mascota.</p>
 
 							</div>
 							<div class="clearfix"> </div>
