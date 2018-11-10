@@ -53,7 +53,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <span class="icon-bar"></span>
           </button>
 					<div class="logo-w3layouts-agileits">
-						<h1> <a class="navbar-brand" href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> Conceit <span class="desc">For your Business</span></a></h1>
+						<h1> <a class="navbar-brand" href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> Conceit <span class="desc"> zoologico </span></a></h1>
 					</div>
 				</div>
 				<div id="navbar" class="navbar-collapse collapse">
@@ -131,14 +131,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="item active">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>Build Effective Designs</h3>
-						<p>Solutions made easy</p>
+						<h3> zoologico </h3>
+						<p>animales salvajes</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">Read More</a>
+								<a class="act" href="single.html">animales</a>
 							</div>
 							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">Portfolio</a>
+								<a href="portfolio.html" class="two scroll ">plantas</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -148,14 +148,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="item item2">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>Best Business Thinking</h3>
-						<p>You deserve the best</p>
+						<h3> zoologico </h3>
+						<p>animales salvajes</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">Read More</a>
+								<a class="act" href="single.html">animales</a>
 							</div>
 							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">Portfolio</a>
+								<a href="portfolio.html" class="two scroll ">plantas</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -165,14 +165,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="item item3">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>Build Effective Designs</h3>
-						<p>Solutions made easy</p>
+						<h3> zoologico </h3>
+						<p>animales salvajes</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">Read More</a>
+								<a class="act" href="single.html">animales</a>
 							</div>
 							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">Portfolio</a>
+								<a href="portfolio.html" class="two scroll ">plantas</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -184,14 +184,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="container">
 					<div class="carousel-caption">
 
-						<h3>Best Business Thinking</h3>
-						<p>You deserve the best</p>
+						<h3> zoologico </h3>
+						<p>animales salvajes</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">Read More</a>
+								<a class="act" href="single.html">animales</a>
 							</div>
 							<div class="bnr-button">
-								<a href="#portfolio" class="two scroll ">Portfolio</a>
+								<a href="portfolio.html" class="two scroll ">plantas</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -213,25 +213,23 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/ab-->
 	<div class="banner_bottom">
 		<div class="container">
-<<<<<<< HEAD
-			<h3 class="tittle-w3ls">About Us</h3>
-=======
-			<h3 class="tittle-w3ls">PATITAS FELICESS</h3>
->>>>>>> dce8da00138a02db367b80fa7cba170e40b3eaa6
+
+			
+			<h3 class="tittle-w3ls">zoologico</h3>
+
 			<div class="inner_sec_info_wthree_agile">
 				<div class="help_full">
 
 					<div class="col-md-6 banner_bottom_grid help">
-<<<<<<< HEAD
-						<img src="img/1.jpg" alt=" " class="img-responsive">
-=======
+
+
 						<img src="images/carol.jpg" alt=" " class="img-responsive">
->>>>>>> dce8da00138a02db367b80fa7cba170e40b3eaa6
+
 					</div>
 					<div class="col-md-6 banner_bottom_left">
-						<h4>La mejor veterinaria de huancayo</h4>
-						<p>una de las mejores veterinarias de huancayo donde el trato  atu mascota ser ala mejor .</p>
-						<p>tenemos los mejores medicos especialista  d ela ciudad </p>
+						<h4>El mejor Zoologico Huancayo</h4>
+						<p>Uno de los mejores Zoologicos de huanacayo .</p>
+						<p>El mas visitado por los turitas</p>
 						<div class="ab_button">
 							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">ingresar </a>
 						</div>
@@ -250,7 +248,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 							<div class="col-xs-9 banner_bottom_grid_right">
 								<h4> En linea </h4>
-								<p> podra separar su cita ingresando a nuetra pagina</p>
+								<p> podra observas todos los animales en  nuetra pagina</p>
 
 							</div>
 							<div class="clearfix"> </div>
@@ -267,7 +265,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 							<div class="col-xs-9 banner_bottom_grid_right">
 								<h4>ubicacion</h4>
-								<p>podras ubicarnos en el centro d ela ciudad calle real #123.</p>
+								<p>podras ubicarnos en el centro de huancayo N°413.</p>
 
 							</div>
 							<div class="clearfix"> </div>
@@ -284,7 +282,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 							<div class="col-xs-9 banner_bottom_grid_right">
 								<h4> Prioridad</h4>
-								<p>nuestra prioridad siempre sera el vienestar de tu mascota.</p>
+								<p>El mejor establecimiento para los animales .</p>
 
 							</div>
 							<div class="clearfix"> </div>
@@ -740,11 +738,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="col-md-4 sign-gd">
 						<h4>Latest <span>Info</span> </h4>
 						<ul>
-							<li><a href="index.html">Home</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="404.html">Services</a></li>
-							<li><a href="signin.html">Signin</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="index.html">Acerca de </a></li>
+							<li><a href="about.html">busqueda</a></li>
+							<li><a href="404.html">Servicios</a></li>
+							<li><a href="signin.html">registro</a></li>
+							<li><a href="contact.html">Contacto</a></li>
 						</ul>
 					</div>
 					<div class="col-md-3 sign-gd flickr-post">
