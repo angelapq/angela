@@ -228,7 +228,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-6 banner_bottom_left">
 						<h4>El mejor Zoologico Huancayo</h4>
-						<p>Uno de los mejores Zoologicos de huanacayo .</p>
+						<p>Uno de los mejores Zoologicos de huancayo .</p>
 						<p>El mas visitado por los turitas</p>
 						<div class="ab_button">
 							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">ingresar </a>
@@ -297,28 +297,33 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/what-->
 	<div class="works">
 		<div class="container">
-			<h3 class="tittle-w3ls cen">What we do</h3>
+			<h3 class="tittle-w3ls cen">ZOOLANDIA</h3>
 			<div class="inner_sec_info_wthree_agile">
 				<div class="ser-first">
 					<div class="col-md-3 ser-first-grid text-center">
 						<span class="fa fa-shield" aria-hidden="true"></span>
-						<h3>Unique Design</h3>
-						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+						<h3>TURISTICOS</h3>
+						<p>El Zoológico ZOOLANDIA está listo para recibir a grupos de excursionistas y agencias de viajes, ya que, además de ser una experiencia divertida el recorrer uno de los parques más importantes en peru, su visita les permite estar en contacto con la naturaleza y con especies de animales de los 5 continentes en un mismo sitio.</p>
 					</div>
 					<div class="col-md-3 ser-first-grid text-center">
 						<span class="fa fa-pencil" aria-hidden="true"></span>
-						<h3>Different Layout</h3>
-						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+						<h3>CAMPAMENTOS NOCTURNOS</h3>
+						<p>Si te agradan los animales y deseas observarlos de una manera diferente a tu visita convencional al zoológico, los CAMPAMENTOS NOCTURNOS pueden ser tu mejor opción. Puedes organizar a tu grupo de amigos o de compañeros de tu escuela y pasar una experiencia inolvidable.
+
+						En nuestros campamentos comprobarás que: ¡no todo es como parece!: </p>
 					</div>
 					<div class="col-md-3 ser-first-grid text-center">
 						<span class="fa fa-star" aria-hidden="true"></span>
-						<h3>Portfolio Styles</h3>
-						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+						<h3>EVENTOS ESPECIALES</h3>
+						<p>¿Quieres celebrar de una manera diferente? El Zoológico  te dice como:
+
+						Invita a tu pareja a una cena romántica en las locaciones especiales que tenemos para ti, haremos de tu idea un evento inolvidable.
+						Celebra tu aniversario o el de tus papás, o haz una cena exclusiva para tus amigos más cercanos.</p>
 					</div>
 					<div class="col-md-3 ser-first-grid text-center">
 						<span class="fa fa-thumbs-up" aria-hidden="true"></span>
-						<h3>User Experience</h3>
-						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+						<h3>PAQUETES ESTUDIANTES</h3>
+						<p>Nos gustaría invitarle a conocer y utilizar los servicios educativos preparados especialmente para grupos escolares. Hemos diseñado un paquete en el cual podrán hacer uso de todos los servicios con los que cuenta el zoológico, además de enriquecer su visita con el programa de atención escolar, este ofrece distintas opciones para que elijan y programen su visita según sus propios intereses tomando en cuenta que contamos con platicas elaboradas de acuerdo al nivel escolar que va desde preescolar hasta universidad.</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -330,36 +335,35 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/banner_bottom-->
 	<div class="banner_bottom">
 		<div class="banner_bottom_in">
-			<h3 class="tittle-w3ls we">We provide high quality and cost effective offshore web development services.</h3>
+			<h3 class="tittle-w3ls we">"ZOOLANDIA" LA MEJOR EXPERIENCIA QUE VIVIRAS EN LA NATURALEZA.</h3>
 
-			<p>Lorem ipsum dolor sit amet, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-				nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+			<p>Visitanos y vive una experiencia inolvidable nuestras puertas estan abiertas los 7 dias alas semana .</p>
 
 
-			<img src="images/1.jpg" class="img-responsive" alt="">
+			<img src="images/ww.jpg" class="img-responsive" alt="">
 		</div>
 	</div>
 	<!--//banner_bottom-->
 	<!--/projects-->
 	<div class="banner_bottom proj">
 		<div class="wrap_view">
-			<h3 class="tittle-w3ls">Projects</h3>
+			<h3 class="tittle-w3ls">ZOOLANDIA</h3>
 			<div class="inner_sec">
 				<ul class="portfolio-categ filter">
 					<li class="port-filter all active">
-						<a href="#">All</a>
+						<a href="#">TODOS ANIMALES</a>
 					</li>
 					<li class="cat-item-1">
-						<a href="#" title="Category 1">Category 1</a>
+						<a href="#" title="Category 1">Animales 1</a>
 					</li>
 					<li class="cat-item-2">
-						<a href="#" title="Category 2">Category 2</a>
+						<a href="#" title="Category 2">Animales 2</a>
 					</li>
 					<li class="cat-item-3">
-						<a href="#" title="Category 3">Category 3</a>
+						<a href="#" title="Category 3">Animales3</a>
 					</li>
 					<li class="cat-item-4">
-						<a href="#" title="Category 4">Category 4</a>
+						<a href="#" title="Category 4">Animales4</a>
 					</li>
 				</ul>
 
@@ -371,10 +375,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<span class="image-block img-hover">
 							<a class="image-zoom" href="images/g1.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
 							
-									<img src="images/g1.jpg" class="img-responsive" alt="Conceit">
+									<img src="images/3.jpg" class="img-responsive" alt="Conceit">
 									<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>OSO PANDA</h5>
+											<p>El oso panda es un animal solitario. Tiene mayor actividad durante las puestas de sol y suele delimitar su territorio con orina, olores y marcas de garras; así evitan enfrentamientos entre ellos.
+											A diferencia de otros osos, el panda gigante no hiberna pero sí desciende a elevaciones más bajas durante el frío invierno en busca de temperaturas más altas. En esa época busca cuevas, árboles huecos y grietas donde puede mantenerse caliente.</p>
 										</div>
 							</a>
 						</span>
@@ -387,10 +392,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<span class="image-block">
 							<a class="image-zoom" href="images/g2.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
 								
-									<img src="images/g2.jpg" class="img-responsive" alt="Conceit">
+									<img src="images/4.jpg" class="img-responsive" alt="Conceit">
 								<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>GORILA</h5>
+											<p>Lo impresionante de su dieta alimenticia es que aunque pasen la mayor parte de su tiempo comiendo y descansando, y dependiendo de las zonas en donde convivan estos pueden inclinarse o por las hojas, las frutas e incluso hasta algunos insectos como las termitas.</p>
 										</div>
 							</a>
 						</span>
@@ -403,11 +408,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<span class="image-block">
 							<a class="image-zoom" href="images/g3.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
 							
-									<img src="images/g3.jpg" class="img-responsive" alt="Conceit">
+									<img src="images/8.jpg" class="img-responsive" alt="Conceit">
 								<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
-										</div>
+											<h5>ELEFANTE</h5>
+											<p>Los elefantes son considerados uno de los animales más grandes de tierra, estos son capaces de medir entre 10 y 12 pies de altura, su peso al nacer puede ser hasta de 120 kilos y su vida útil se encuentra entre los 50 y 70 años de edad, suelen consumir grandes cantidades de comida donde incluyen raíces, vegetaciones, cortezas, árboles y hojas.
 							</a>
 						</span>
 						</div>
@@ -419,10 +423,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<span class="image-block">
 							<a class="image-zoom" href="images/g4.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
 								
-									<img src="images/g4.jpg" class="img-responsive" alt="Conceit">
+									<img src="images/10.jpg" class="img-responsive" alt="Conceit">
 									<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>TIGRE</h5>
+											<p>El tigre es el felino más grande del mundo, con un crecimiento de alrededor de 2.5 metros de longitud. Es el más poderoso de todos los grandes felinos y es nativo del este y el sur de Asia. El tigre es temido por la mayoría de los seres humanos que habitan los asentamientos en el territorio de este animal,Puede alcanzar velocidades de hasta 90 km por hora, por lo que es extremadamente rápido. Incluso se han conocido por entrar en conflicto con los rinocerontes y los elefantes con el tigre generalmente como ganador.</p>
 										</div>
 							</a>
 						</span>
@@ -433,12 +437,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li class="portfolio-item2" data-id="id-4" data-type="cat-item-3">
 						<div>
 							<span class="image-block">
-							<a class="image-zoom" href="images/g5.jpg" width="100" height="100"  rel="prettyPhoto[gallery]">
+							<a class="image-zoom" href="images/6.jpg" width="100" height="100"  rel="prettyPhoto[gallery]">
 								
-									<img src="images/g5.jpg" class="img-responsive" alt="Conceit">
+									<img src="images/6.jpg" class="img-responsive" alt="Conceit">
 									<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>TIGRILLO</h5>
+											<p>Al parecer se distinguen por su pelo y por las huellas de sus patas. Expertos mexicanos aseguran que la cola del ocelote es más corta, y que el tamaño de su cuerpo en mucho mayor que el del tigrillo. El ocelote puede medir 1.5 metros y pesar unos 20 kilos, Hay una variación en el patrón de sus manchas y en la tonalidad del cuerpo que marca la diferencia.</p>
 										</div>
 							</a>
 						</span>
@@ -449,12 +453,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li class="portfolio-item2" data-id="id-5" data-type="cat-item-2">
 						<div>
 							<span class="image-block">
-							<a class="image-zoom" href="images/g6.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
+							<a class="image-zoom" href="images/7.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
 								
-									<img src="images/g6.jpg" class="img-responsive" alt="Conceit">
+									<img src="images/7.jpg" class="img-responsive" alt="Conceit">
 									<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>HIPOPOTAMO</h5>
+											<p>que están en tierra.Puesto que el hipopótamo es una criatura muy grande, a menudo las personas piensan que consumen carne, cuando son  animales herbívoros,principal fuente de alimento, o sea, lo que come el hipopótamo es el pasto corto. Pasan cinco o más horas de pastoreo cada noche y para conseguir el alimento caminan hasta cinco kilómetros. Pueden consumir hasta 150 libras de alimento por día.</p>
 										</div>
 							</a>
 						</span>
@@ -465,12 +469,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li class="portfolio-item2" data-id="id-6" data-type="cat-item-1">
 						<div>
 							<span class="image-block">
-							<a class="image-zoom" href="images/g7.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
+							<a class="image-zoom" href="images/tukan.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
 							
-									<img src="images/g7.jpg" class="img-responsive" alt="Conceit">
+									<img src="images/tukan.jpg" class="img-responsive" alt="Conceit">
 								      <div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>TUKAN</h5>
+											<p>Los tucanes son aves de la familia Ramphastide, que engloba a cerca de 42 especies. Son fácilmente reconocibles por características peculiares, tales como son su pico largo y colorido y su plumaje negro. Según la especie, oscilan entre los 29 y 63 centímetros de largo y no suelen llegar al kilo de peso,La base de su alimentación está formada por frutos, bayas e insectos y, en ocasiones, también por animales más grandes, como lagartos, e incluso huevos y pichones de otras especies de aves.</p>
 										</div>
 							</a>
 						</span>
@@ -483,10 +487,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<span class="image-block">
 							<a class="image-zoom" href="images/g8.jpg" width="100" height="100" rel="prettyPhoto[gallery]">
 								
-									<img src="images/g8.jpg" class="img-responsive" alt="Conceit">
+									<img src="images/11.jpg" class="img-responsive" alt="Conceit">
 										<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>FOCA MARINA</h5>
+											<p>Lo más resaltante de las focas es que las mismas cuentan con más de 19 especies diferentes, habitando las costas de gran parte del mundo y siendo conocidas por su prominente porte y figura tan característica,La alimentación de la foca, al ser esta un animal mamífero, puede llegar a ser muy variada y hasta extravagante. Prácticamente, cualquier clase de pez y marisco puede ser fácilmente engullida por las focas.</p>
 										</div>
 							
 							</a>
@@ -506,19 +510,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--//projects-->
 	<!--/blog-->
 	<div class="blog_sec">
-		<h3 class="tittle-w3ls">Latest Blogs</h3>
+		<h3 class="tittle-w3ls">FECHAS IMPORTANTES</h3>
 		<div class="col-md-6 banner-btm-left">
 			<div class="banner-btm-top">
 				<div class="banner-btm-inner a1">
 					<div class="blog_date">
 
-						<h4>Jan.05.2018</h4>
+						<h4>nov.05.2018</h4>
 
 					</div>
-					<h6><a href="single.html">Strategic Planning</a></h6>
-					<p class="paragraph">Aenean orci erat, placerat id pulvinar nec, tincidunt vel eros.</p>
+					<h6><a href="single.html">Dia del gorila</a></h6>
+					<p class="paragraph">se les permite fotos cerca del nuetro gorila por ser su dia especial.</p>
 					<div class="clearfix"></div>
-					<a href="single.html" class="blog-btn">Know More</a>
+					<a href="single.html" class="blog-btn">ver</a>
 				</div>
 				<div class="banner-btm-inner a2">
 
@@ -531,13 +535,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="banner-btm-inner a4">
 					<div class="blog_date">
 
-						<h4>Jan.08.2018</h4>
+						<h4>nov.28.2018</h4>
 
 					</div>
-					<h6><a href="single.html">Strategic Planning</a></h6>
-					<p class="paragraph">Aenean orci erat, placerat id pulvinar nec, tincidunt vel eros.</p>
+					<h6><a href="single.html">dia de nuestro leon</a></h6>
+					<p class="paragraph">junto a ti celebrarempos el dia de nuestro Leon Alex.</p>
 					<div class="clearfix"></div>
-					<a href="single.html" class="blog-btn">Know More</a>
+					<a href="single.html" class="blog-btn">Ver</a>
 				</div>
 			</div>
 		</div>
@@ -546,13 +550,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="banner-btm-inner a1">
 					<div class="blog_date">
 
-						<h4>Jan.25.2018</h4>
+						<h4>dic.02.2018</h4>
 
 					</div>
-					<h6><a href="single.html">Strategic Planning</a></h6>
-					<p class="paragraph">Aenean orci erat, placerat id pulvinar nec, tincidunt vel eros.</p>
+					<h6><a href="single.html">Dia del Lobo Marino</a></h6>
+					<p class="paragraph">Dia dond everas numeros de lobos marinos pas auna tarde divertida apartir de las 4:pmS</p>
 					<div class="clearfix"></div>
-					<a href="single.html" class="blog-btn">Know More</a>
+					<a href="single.html" class="blog-btn">Ver</a>
 				</div>
 				<div class="banner-btm-inner a5">
 
@@ -565,13 +569,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="banner-btm-inner a4">
 					<div class="blog_date">
 
-						<h4>Jan.05.2018</h4>
+						<h4>dic.05.2018</h4>
 
 					</div>
-					<h6><a href="single.html">Strategic Planning</a></h6>
-					<p class="paragraph">Aenean orci erat, placerat id pulvinar nec, tincidunt vel eros.</p>
+					<h6><a href="single.html">dia d elos animales salvajes</a></h6>
+					<p class="paragraph">fecha donde podra vivir entretenidos numeros respesto a nuestros nimales salvajes.</p>
 					<div class="clearfix"></div>
-					<a href="single.html" class="blog-btn">Know More</a>
+					<a href="single.html" class="blog-btn">Ver</a>
 				</div>
 			</div>
 		</div>
@@ -582,27 +586,24 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/bottom-->
 	<div class="banner_bottom">
 		<div class="container">
-			<h3 class="tittle-w3ls">Let’s Change How We Manage Business
+			<h3 class="tittle-w3ls">ZOLANDIA
 			</h3>
 			<div class="inner_sec_info_wthree_agile">
 				<div class="help_full">
 
 					<div class="col-md-6 banner_bottom_left">
-						<h4>Entrepreneurs Get Their Act Together </h4>
-						<p>Pellentesque convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
-							pulvinar neque pharetra ac. Lorem Ipsum convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla
-							viverra pharetra sem, eget pulvinar neque pharetra ac.
+						<h4>se creo este zologico con la finalidad de brindar asu publico satisfaccion de pasar un dia en familia o amigos que s eentretengan visitando los habitad de la variedad de animales domesticos exoticos marinos salvajes, etc que tenemos
 
 						</p>
 						<div class="ab_button">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More </a>
+							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Ver </a>
 						</div>
 
 
 					</div>
 
 					<div class="col-md-6 banner_bottom_grid help">
-						<img src="images/banner_mid.jpg" alt=" " class="img-responsive">
+						<img src="images/5.jpg" alt=" " class="img-responsive">
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -613,7 +614,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/testimonials-->
 	<div class="tesimonials">
 		<div class="container">
-			<h3 class="tittle-w3ls cen">Testimonials</h3>
+			<h3 class="tittle-w3ls cen">quienes nos visitaron </h3>
 			<div class="inner_sec">
 				<div class="test_grid_sec">
 					<div class="col-md-offset-2 col-md-8">
@@ -633,13 +634,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<blockquote>
 										<div class="test_grid">
 											<div class="col-sm-3 text-center test_img">
-												<img src="images/t1.jpg" class="img-responsive" alt="">
+												<img src="images/f1.jpg" class="img-responsive" alt="">
 
 											</div>
 											<div class="col-sm-9 test_img_info">
-												<p>Maecenas quis neque libero. Class aptent taciti.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-													auctor nec lacus ut tempor. Mauris.</p>
-												<h6>Sara Lisbon</h6>
+												<p>hermoso lugar donde me diverti con mi familia se siente un habitad perfecto para los animales</p>
+												<h6>Juan Rodriguez</h6>
 											</div>
 										</div>
 									</blockquote>
@@ -649,12 +649,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<blockquote>
 										<div class="test_grid">
 											<div class="col-sm-3 text-center test_img">
-												<img src="images/t2.jpg" class="img-responsive" alt="">
+												<img src="images/f2.jpg" class="img-responsive" alt="">
 											</div>
 											<div class="col-sm-9 test_img_info">
-												<p>Lorem ipsum dolor sit amet. Class aptent taciti.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-													auctor nec lacus ut tempor. Mauris.</p>
-												<h6>Jane Wearne</h6>
+												<p>la perte mas hermosa del zoologico fue el lugar de los hipopotamos les recomiendo visitar zoolandia.</p>
+												<h6>Sara Perez</h6>
 											</div>
 										</div>
 									</blockquote>
@@ -664,12 +663,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<blockquote>
 										<div class="test_grid">
 											<div class="col-sm-3 text-center test_img">
-												<img src="images/t3.jpg" class="img-responsive" alt="">
+												<img src="images/f3.jpg" class="img-responsive" alt="">
 											</div>
 											<div class="col-sm-9 test_img_info">
-												<p>Maecenas quis neque libero. Class aptent taciti.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-													auctor nec lacus ut tempor. Mauris.</p>
-												<h6>Alice Williams</h6>
+												<p>los monos fueron muy graciosos espero volver pronyo a zoolandia</p>
+												<h6>Alicia Romero</h6>
 											</div>
 										</div>
 									</blockquote>
@@ -687,12 +685,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!-- /newsletter-->
 	<div class="newsletter_w3ls_agileits">
 		<div class="col-sm-6 newsleft">
-			<h3>Sign up for Newsletter !</h3>
+			<h3>correo electronico !</h3>
 		</div>
 		<div class="col-sm-6 newsright">
 			<form action="#" method="post">
 				<input type="email" placeholder="Enter your email..." name="email" required="">
-				<input type="submit" value="Submit">
+				<input type="submit" value="enviar">
 			</form>
 		</div>
 
@@ -705,7 +703,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="footer_inner_info_w3ls_agileits">
 			<div class="col-md-3 footer-left">
 				<h2><a href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> concetra </a></h2>
-				<p>La veterinaria ofrece los mejores servicios para su mascota.</p>
+				<p>nuestro zoologico ofrece la mejor experiencia con tu familia amigos etc.</p>
 				<ul class="social-nav model-3d-0 footer-social social two">
 					<li>
 						<a href="#" class="facebook">
@@ -736,7 +734,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="col-md-9 footer-right">
 				<div class="sign-grds">
 					<div class="col-md-4 sign-gd">
-						<h4>Latest <span>Info</span> </h4>
+						<h4>nuestra <span>Informacion</span> </h4>
 						<ul>
 							<li><a href="index.html">Acerca de </a></li>
 							<li><a href="about.html">busqueda</a></li>
@@ -746,16 +744,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</ul>
 					</div>
 					<div class="col-md-3 sign-gd flickr-post">
-						<h4>Our <span>Works</span></h4>
+						<h4>nuestros <span>animales</span></h4>
 						<ul>
-							<li><a href="single.html"><img src="images/g1.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g2.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g3.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g4.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g5.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g6.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g7.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g8.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/1.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/2.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/3.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/4.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/5.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/6.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/7.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
+							<li><a href="single.html"><img src="images/8.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
 							<li><a href="single.html"><img src="images/g4.jpg" width="100" height="100" alt=" " class="img-responsive" /></a></li>
 						</ul>
 					</div>
