@@ -12,13 +12,13 @@
 
 
 
-	<title>Proyecto Angela, Carol & Juanita</title>
+	<title>Proyecto Angela, Carol, Juanita, José</title>
 
 
 	<!--/tags -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="keywords" content="Conceit Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+	<meta name="keywords" content="zoolandia Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 	<script type="application/x-javascript">
 		addEventListener("load", function () {
@@ -53,7 +53,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <span class="icon-bar"></span>
           </button>
 					<div class="logo-w3layouts-agileits">
-						<h1> <a class="navbar-brand" href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> Conceit <span class="desc"> zoologico </span></a></h1>
+						<h1> <a class="navbar-brand" href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> Zoolandia <span class="desc"> zoologico </span></a></h1>
 					</div>
 				</div>
 				<div id="navbar" class="navbar-collapse collapse">
@@ -66,8 +66,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 							
 
-							<li class="active"><a href="index.html">Inicio</a></li>
-							<li><a href="about.html">Acerca de</a></li>
+							<li class="active"><a href="#">Inicio</a></li>
+							<li><a href="https://leyendas.gob.pe/">Acerca de</a></li>
 
 							<li><a href="portfolio.html">Portfolio</a></li>
 							<li><a href="contact.html">Contacto</a></li>
@@ -135,10 +135,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<p>animales salvajes</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">animales</a>
+								<a class="act" href="https://leyendas.gob.pe/">animales</a>
 							</div>
 							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">plantas</a>
+								<a href="https://leyendas.gob.pe/" class="two scroll ">plantas</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -152,10 +152,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<p>animales salvajes</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">animales</a>
+								<a class="act" href="https://leyendas.gob.pe/">animales</a>
 							</div>
 							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">plantas</a>
+								<a href="https://leyendas.gob.pe/" class="two scroll ">plantas</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -169,10 +169,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<p>animales salvajes</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">animales</a>
+								<a class="act" href="https://leyendas.gob.pe/">animales</a>
 							</div>
 							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">plantas</a>
+								<a href="https://leyendas.gob.pe/" class="two scroll ">plantas</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -188,10 +188,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<p>animales salvajes</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">animales</a>
+								<a class="act" href="https://leyendas.gob.pe/">animales</a>
 							</div>
 							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">plantas</a>
+								<a href="https://leyendas.gob.pe/" class="two scroll ">plantas</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -231,7 +231,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<p>Uno de los mejores Zoologicos de huancayo .</p>
 						<p>El mas visitado por los turitas</p>
 						<div class="ab_button">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">ingresar </a>
+							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="" role="button">ingresar </a>
 						</div>
 					</div>
 					<div class="clearfix"></div>
@@ -572,7 +572,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<h4>dic.05.2018</h4>
 
 					</div>
-					<h6><a href="single.html">dia d elos animales salvajes</a></h6>
+					<h6><a href="single.html">dia de los animales salvajes</a></h6>
 					<p class="paragraph">fecha donde podra vivir entretenidos numeros respesto a nuestros nimales salvajes.</p>
 					<div class="clearfix"></div>
 					<a href="single.html" class="blog-btn">Ver</a>
@@ -592,7 +592,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="help_full">
 
 					<div class="col-md-6 banner_bottom_left">
-						<h4>se creo este zologico con la finalidad de brindar asu publico satisfaccion de pasar un dia en familia o amigos que s eentretengan visitando los habitad de la variedad de animales domesticos exoticos marinos salvajes, etc que tenemos
+						<h4>se creo este zologico con la finalidad de brindar a su público satisfacción de pasar un día en familia o amigos para que se entretengan visitando los habitad y de la variedad de animales domesticos exoticos marinos salvajes, etc que tenemos.
 
 						</p>
 						<div class="ab_button">
@@ -603,7 +603,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 
 					<div class="col-md-6 banner_bottom_grid help">
-						<img src="images/5.jpg" alt=" " class="img-responsive">
+						<img src="images/5.jpg" alt="#" class="img-responsive">
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -614,7 +614,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/testimonials-->
 	<div class="tesimonials">
 		<div class="container">
-			<h3 class="tittle-w3ls cen">quienes nos visitaron </h3>
+			<h3 class="tittle-w3ls cen">Nuestros Colaboradores </h3>
 			<div class="inner_sec">
 				<div class="test_grid_sec">
 					<div class="col-md-offset-2 col-md-8">
@@ -634,12 +634,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<blockquote>
 										<div class="test_grid">
 											<div class="col-sm-3 text-center test_img">
-												<img src="images/f1.jpg" class="img-responsive" alt="">
+												<img src="images/pompi.jpg" class="img-responsive" alt="">
 
 											</div>
 											<div class="col-sm-9 test_img_info">
 												<p>hermoso lugar donde me diverti con mi familia se siente un habitad perfecto para los animales</p>
-												<h6>Juan Rodriguez</h6>
+												<h6>Angela Pompi</h6>
 											</div>
 										</div>
 									</blockquote>
@@ -649,11 +649,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<blockquote>
 										<div class="test_grid">
 											<div class="col-sm-3 text-center test_img">
-												<img src="images/f2.jpg" class="img-responsive" alt="">
+												<img src="images/carol1.jpg" class="img-responsive" alt="">
 											</div>
 											<div class="col-sm-9 test_img_info">
-												<p>la perte mas hermosa del zoologico fue el lugar de los hipopotamos les recomiendo visitar zoolandia.</p>
-												<h6>Sara Perez</h6>
+												<p>la parte mas hermosa del zoologico fue el lugar de los hipopotamos les recomiendo visitar zoolandia.</p>
+												<h6>Carol Yohana</h6>
 											</div>
 										</div>
 									</blockquote>
@@ -663,11 +663,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<blockquote>
 										<div class="test_grid">
 											<div class="col-sm-3 text-center test_img">
-												<img src="images/f3.jpg" class="img-responsive" alt="">
+												<img src="images/juanita.jpg" class="img-responsive" alt="">
 											</div>
 											<div class="col-sm-9 test_img_info">
-												<p>los monos fueron muy graciosos espero volver pronyo a zoolandia</p>
-												<h6>Alicia Romero</h6>
+												<p>los monos fueron muy graciosos espero volver pronto a zoolandia</p>
+												<h6>Juanita Silvestre</h6>
 											</div>
 										</div>
 									</blockquote>
@@ -688,8 +688,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<h3>correo electronico !</h3>
 		</div>
 		<div class="col-sm-6 newsright">
-			<form action="#" method="post">
-				<input type="email" placeholder="Enter your email..." name="email" required="">
+			<form action="ttps://www.facebook.com/pompaquispe.angelajackeline" method="post">
+				<input type="email" placeholder="Enter your email..." name="email" >
 				<input type="submit" value="enviar">
 			</form>
 		</div>
@@ -703,10 +703,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="footer_inner_info_w3ls_agileits">
 			<div class="col-md-3 footer-left">
 				<h2><a href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> concetra </a></h2>
-				<p>nuestro zoologico ofrece la mejor experiencia con tu familia amigos etc.</p>
+				<p>nuestro zoologico ofrece la mejor experiencia con tu familia, amigos etc.</p>
 				<ul class="social-nav model-3d-0 footer-social social two">
 					<li>
-						<a href="#" class="facebook">
+						<a href="https://www.facebook.com/pompaquispe.angelajackeline" class="facebook">
 							<div class="front"><i class="fa fa-facebook" aria-hidden="true"></i></div>
 							<div class="back"><i class="fa fa-facebook" aria-hidden="true"></i></div>
 						</a>
@@ -776,7 +776,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 								<div class="address-right">Conce
 									<h6>Correo</h6>
-									<p>Email :<a href="mailto:example@email.com"> jackelinepompaquispe@gmail.com</a></p>
+									<p>Facebook :<a href="https://www.facebook.com/pompaquispe.angelajackeline"> jackelinepompaquispe@gmail.com</a></p>
 								</div>
 								<div class="clearfix"> </div>
 							</div>
@@ -799,7 +799,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 			</div>
 			<div class="clearfix"></div>
-			<p class="copy-right">&copy 2018 Conceit. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+			<p class="copy-right">&copy 2018 Conceit. Todos los derechos reservados | <a href="#">POMPI</a></p>
 		</div>
 	</div>
 	</div>
