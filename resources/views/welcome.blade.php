@@ -70,7 +70,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<li><a href="https://leyendas.gob.pe/">Acerca de</a></li>
 
 							<li><a href="portfolio.html">Portfolio</a></li>
-							<li><a href="contact.html">Contacto</a></li>
+							<li><a href="contacto">Contacto</a></li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Desplegable <span class="caret"></span></a>
 								<ul class="dropdown-menu">
