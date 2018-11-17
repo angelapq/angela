@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('contacto', function () {
     return view('contacto');
 });
+Route::get('inicio', function () {
+    return view('inicio');
+});

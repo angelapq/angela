@@ -53,7 +53,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div id="navbar" class="navbar-collapse collapse">
 					<div class="nav_right_top">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a class="request" href="contact.html">Enviar</a></li>
+							
 
 						</ul>
 						<ul class="nav navbar-nav">
@@ -65,15 +65,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 							<li><a href="portfolio.html">Portfolio</a></li>
 							<li><a href="contacto">Contacto</a></li>
-							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Desplegable <span class="caret"></span></a>
-								<ul class="dropdown-menu">
-									<li><a href="portfolio.html">Projects</a></li>
-									<li><a href="404.html">Services</a></li>
-
-
-								</ul>
-							</li>
+							
 						</ul>
 					</div>
 				</div>
