@@ -60,10 +60,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 							
 
-							<li class="active"><a href="#">Inicio</a></li>
-							<li><a href="https://leyendas.gob.pe/">Acerca de</a></li>
+							<li class="active"><a href="inicio">Inicio</a></li>
+							<li><a href="acerca">Acerca de</a></li>
 
-							<li><a href="portfolio.html">Portfolio</a></li>
+							<li><a href="portfolio">Portfolio</a></li>
 							<li><a href="contacto">Contacto</a></li>
 							
 						</ul>
