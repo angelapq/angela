@@ -60,11 +60,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 							
 
-							<li class="active"><a href="inicio">Inicio</a></li>
+							<li><a href="inicio">Inicio</a></li>
 							<li><a href="acerca">Acerca de</a></li>
 
-							<li><a href="portfolio">Portfolio</a></li>
-							<li><a href="contacto">Contacto</a></li>
+							<li><a href="portafolio">Portafolio</a></li>
+							<li class="active"><a href="contacto">Contacto</a></li>
 							
 						</ul>
 					</div>
@@ -162,7 +162,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	</div>
 
-	<div class="blog_sec">
+	
 		
 	
 	
@@ -283,7 +283,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="clearfix"></div>
 			<p class="copy-right">&copy 2018 Conceit. Todos los derechos reservados | <a href="#">POMPI</a></p>
 		</div>
-	</div>
 	</div>
 	<!-- //footer -->
 	<script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
